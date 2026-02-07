@@ -1,0 +1,9 @@
+# تجاهل ملفات البيئة
+.env
+
+# تجاهل ملفات Python cache
+__pycache__/
+*.pyc
+
+# تجاهل ملفات Jupyter checkpoints
+.ipynb_checkpoints/
