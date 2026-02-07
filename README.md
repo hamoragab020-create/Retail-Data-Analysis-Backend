@@ -35,9 +35,10 @@ Retail-Data-Analysis-Backend/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/hamoragab020-create/Retail-Data-Analysis-Backend
+git clone https://github.com/AhmedRagab77-hue/Retail-Data-Analysis-Backend
 cd Retail-Data-Analysis-Backend 
 ```
+
 
 
 
